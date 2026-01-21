@@ -4,6 +4,14 @@
     font-family: "Poppins","sans-serif";
     box-sizing: border-box;
 }
+.loader {
+  display: none;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+}
+
 
 body{
     background: #222;
